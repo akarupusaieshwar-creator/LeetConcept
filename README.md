@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Array
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+## Hash Table
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
