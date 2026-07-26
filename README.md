@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [1137-n-th-tribonacci-number](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Geometry
 |  |
 | ------- |
@@ -64,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+## Greedy
+|  |
+| ------- |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
