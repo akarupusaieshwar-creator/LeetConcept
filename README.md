@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
