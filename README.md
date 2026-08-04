@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3731-find-missing-elements](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3731-find-missing-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+| [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [3731-find-missing-elements](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
