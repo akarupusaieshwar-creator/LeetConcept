@@ -27,15 +27,19 @@ class Solution {
     }
     public void fun(int[] arr,int n,int idx,ArrayList<Integer> list){
         if(idx == n){
-            if(!al.contains(list)){
+            // if(!al.contains(list)){
                 al.add(new ArrayList<>(list));
-            }
+            // }
             return;
         }
         list.add(arr[idx]);
         // Collections.sort(list);
         fun(arr,n,idx+1,list);
+
         list.remove(list.size()-1);
+        while(idx < n - 1 && arr[idx] == arr[idx+1]){
+            idx++;
+        }
         fun(arr,n,idx+1,list);
     }
 }
