@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
