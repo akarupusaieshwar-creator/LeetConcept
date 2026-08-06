@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3731-find-missing-elements](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Game Theory
 |  |
