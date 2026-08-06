@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0090-subsets-ii) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+| [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+| [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [3731-find-missing-elements](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3731-find-missing-elements) |
 ## Math
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
