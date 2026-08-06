@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Geometry
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
