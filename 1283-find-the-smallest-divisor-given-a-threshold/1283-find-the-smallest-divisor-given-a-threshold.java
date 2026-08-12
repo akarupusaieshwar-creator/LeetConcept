@@ -1,10 +1,9 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        int n = nums.length;
         int l = 1,h = 0,ans = 0;
-        Arrays.sort(nums);
-        for(int i=0;i<n;i++){
-            h = Math.max(h,nums[i]);
+        // Arrays.sort(nums);
+        for(int i : nums){
+            h = Math.max(h,i);
         }
         while(l <= h){
             int mid = l + (h - l) / 2;
@@ -22,10 +21,7 @@ class Solution {
         int ans = 0;
         for(int i : arr){
             ans += (i + mid - 1) / mid ;
-            if(ans > k){
-                return false;
-            }
         }
-        return true;
+        return ans <= k;
     }
 }
