@@ -7,10 +7,8 @@ class Solution {
         int ans = 0;
         while(lo <= hi){
             int mid = lo + (hi - lo) / 2;
-            //System.out.println(lo + " || " + hi +" || "+mid);
             if(isValid(piles,h,mid)){
                 ans = mid;
-                //System.out.println(ans + " || ");
                 hi = mid - 1;
             }
             else{
@@ -22,7 +20,7 @@ class Solution {
     public boolean isValid(int[] arr,int k,int mid){
         int ans = 0;
         for(int i : arr){
-            ans +=  (i + mid - 1) / mid;
+            ans +=  Math.ceil((double)i/mid);
             if(ans > k){
                 return false;
             }
