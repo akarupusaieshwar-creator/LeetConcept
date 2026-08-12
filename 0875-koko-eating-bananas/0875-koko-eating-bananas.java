@@ -20,7 +20,8 @@ class Solution {
     public boolean isValid(int[] arr,int k,int mid){
         int ans = 0;
         for(int i : arr){
-            ans +=  Math.ceil((double)i/mid);
+            // ans +=  Math.ceil((double)i/mid);
+            ans += (i + mid - 1) / mid;
             if(ans > k){
                 return false;
             }
