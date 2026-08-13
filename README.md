@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Tree
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
