@@ -5,12 +5,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
             while(map.get(nums[i]) > k){
-                if(map.get(nums[j]) > 1){
-                    map.put(nums[j],map.get(nums[j]) - 1);
-                }
-                else{
-                    map.remove(nums[j]);
-                }
+                    map.put(nums[j],map.getOrDefault(nums[j],0) - 1);
                 j++;
             }
             ans = Math.max(ans,i - j + 1);
