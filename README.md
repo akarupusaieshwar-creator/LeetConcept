@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0090-subsets-ii) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
