@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0875-koko-eating-bananas) |
@@ -177,8 +178,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
