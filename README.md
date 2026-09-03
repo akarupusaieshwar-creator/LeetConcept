@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
 | ------- |
