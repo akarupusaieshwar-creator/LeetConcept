@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0084-largest-rectangle-in-histogram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 ## String
