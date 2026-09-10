@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0113-path-sum-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0113-path-sum-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0113-path-sum-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
