@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0875-koko-eating-bananas) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
