@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0090-subsets-ii) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+| [0198-house-robber](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
