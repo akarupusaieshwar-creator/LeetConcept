@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
