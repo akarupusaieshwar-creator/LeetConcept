@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0115-distinct-subsequences) |
+| [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
@@ -261,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
