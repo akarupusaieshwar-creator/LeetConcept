@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Game Theory
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -268,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
