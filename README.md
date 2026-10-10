@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0115-distinct-subsequences) |
 | [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
@@ -273,4 +275,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
