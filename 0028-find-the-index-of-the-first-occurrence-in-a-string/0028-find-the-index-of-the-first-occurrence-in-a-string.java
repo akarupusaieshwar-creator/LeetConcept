@@ -1,5 +1,6 @@
 class Solution {
     public int strStr(String s1, String s2) {
+        // string matching method  
         int n = s1.length();
         int m = s2.length();
         if(m == 0) return 0;
@@ -21,7 +22,7 @@ class Solution {
         }
         for(int i=m;i<=n;i++){
             if(spre[i] - spre[i-m] == pre * prime[i-m]){
-                if(s1.substring(i-m,i).equals(s2)) 
+                // if(s1.substring(i-m,i).equals(s2)) 
                    return i-m;
             }
         }
