@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0090-subsets-ii) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -298,5 +302,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 | [2404-most-frequent-even-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2404-most-frequent-even-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
