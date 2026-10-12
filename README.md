@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0198-house-robber) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0055-jump-game) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
