@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
