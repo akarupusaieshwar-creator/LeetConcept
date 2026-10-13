@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0198-house-robber) |
+| [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
