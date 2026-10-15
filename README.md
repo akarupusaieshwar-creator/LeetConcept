@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3483-unique-3-digit-even-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [2404-most-frequent-even-element](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2404-most-frequent-even-element) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3483-unique-3-digit-even-numbers) |
@@ -321,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
