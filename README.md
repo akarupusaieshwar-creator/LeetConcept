@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1386-cinema-seat-allocation) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1991-find-the-middle-index-in-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1991-find-the-middle-index-in-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akarupusaieshwar-creator/saieshwar/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/3731-find-missing-elements) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akarupusaieshwar-creator/LeetConcept/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
